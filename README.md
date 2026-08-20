@@ -1,6 +1,6 @@
 # Extreme Growth Classifier for Research Clusters
 
-Cluster features and code necessary to train (1) a classic Probit regression model and (2) a linear neural network to identify extreme growth reseach clusters in the Map of Science
+Cluster features and code necessary to train (1) a classic Probit regression model and (2) a linear neural network to identify extreme growth research clusters in the Map of Science
 
 ## Cluster Features
 
@@ -28,3 +28,6 @@ There are 93 features that relate directly to time series information (articles,
   - 16 Features (S0 - S15) for growth share info
   - 15 Features (dS0 - dS14) for change in growth share info
 
+## Funding-Critical Clusters
+
+A full list of funding-critical clusters are provided in the document funding_critical_cluster_metadata.csv
